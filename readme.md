@@ -24,4 +24,4 @@ frontend. Storage implementation is done using JSON file. Error handling is done
 `
 
 ## [Source code](https://github.com/00013086/web-tech-cw2.git)
-## [Hosted app](https://ambitious-leaf-wrist.glitch.me)
+## [Hosted app](https://ambitious-leaf-wrist.glitch.me) For some reasons application is not functioning properly on glitch.com. I used fetch() in client side and it is failing because of cors error. However, application functions correctly on localhost.
