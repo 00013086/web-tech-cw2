@@ -23,5 +23,5 @@ frontend. Storage implementation is done using JSON file. Error handling is done
 }
 `
 
-## [Source code](https://)
-## [Hosted app](https://)
+## [Source code](https://github.com/00013086/web-tech-cw2.git)
+## [Hosted app](https://ambitious-leaf-wrist.glitch.me)
