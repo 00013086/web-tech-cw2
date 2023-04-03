@@ -2,7 +2,6 @@ const express = require("express");
 const router = express.Router();
 const Like = require("../storage/like");
 const decorator = require("../pkg/routerDecorator");
-const md5 = require("md5");
 const bodyParser = require("body-parser");
 
 router.use(bodyParser.urlencoded({ extended: false }));

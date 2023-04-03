@@ -1,6 +1,33 @@
 {
     "blogs": [
-        
+        {
+            "id": "1",
+            "date": "1-3-2023 20:25",
+            "author": "The Conversation U.S",
+            "title": "AI isn’t close to becoming sentient — the real danger lies in how easily we’re prone to anthropomorphize it",
+            "body": "ChatGPT and similar large language models can produce compelling, humanlike answers to an endless array of questions — from queries about the best Italian restaurant in town to explaining competing theories about the nature of evil.\r\n\r\nThe technology’s uncanny writing ability has surfaced some old questions — until recently relegated to the realm of science fiction — about the possibility of machines becoming conscious, self-aware or sentient."
+        },
+        {
+            "author": "Medium Staff",
+            "title": "What We’re Reading: When a story and a writer connect, it’s magic",
+            "body": "Every day, thousands of writers publish their stories on Medium. They use the platform for all sorts of reasons: To hone their skills as a writer or thinker, to connect with an audience, to build their professional profile, to share insight and expertise. As a Medium reader, you have direct access to their work, and as someone who works at Medium, I’m always grateful for the writers who choose to use our platform to publish their work.",
+            "id": 2,
+            "date": "1-3-2023 20:25"
+        },
+        {
+            "author": "John Doe",
+            "title": "David Attenborough Narrates the Great Twitter Migration",
+            "body": "The most beautiful spectacle is the evening gathering of the Tweeps. In autumn, these blue birds join together in large flocks and gather at the ponds. Here they will spend the night sharing hot takes and retweeting “you’re telling me a shrimp fried this rice?” for the thousandth time. There may be several thousands of birds in one place, but they all yearn to “go viral”, a task that will require gathering a few hundred thousand in one place. The ones who accomplish it will get to make a dry joke about what they call their non-existent soundcloud link.",
+            "id": 3,
+            "date": "1-3-2023 20:26"
+        },
+        {
+            "author": "Marc Brackett, Ph.D",
+            "title": "March Madness: Relationships and Basketball have a lot in Common",
+            "body": "Tis the season for March Madness, and we don’t mean just basketball. A lesser-known use of the phrase popularized in the early 1900s is in reference to “a form of madness or uncharacteristic behavior said to affect people in March”. For anyone on the East coast familiar with — and, not a fan of — the inclement shifts in weather and lingering dark days of winter, this makes sense. And there is no shortage of research indicating that simply surviving the bleakest time of year is a feat of mind, body, and spirit. But when this madness bleeds into our relationships, as it inevitably can, it is important to know how you can regulate the burgeoning restlessness of early Spring and cultivate healthier connections.",
+            "id": 4,
+            "date": "1-3-2023 20:26"
+        }
     ],
-    "lastInsertedId": 1
+    "lastInsertedId": 5
 }

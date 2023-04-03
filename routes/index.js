@@ -1,6 +1,5 @@
 const express = require("express");
 const router = express.Router();
-const md5 = require("md5");
 const bodyParser = require("body-parser");
 
 router.use(bodyParser.urlencoded({ extended: false }));

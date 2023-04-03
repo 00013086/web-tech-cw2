@@ -1,5 +1,4 @@
 const decorator = require('../pkg/storageDecorator');
-const { v4 } = require("uuid");
 
 const storage  = new Map();
 const NM = 'storage.user';

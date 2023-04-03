@@ -2,7 +2,6 @@ const express = require("express");
 const router = express.Router();
 const Blog = require("../storage/blog");
 const decorator = require("../pkg/routerDecorator");
-const md5 = require("md5");
 const bodyParser = require("body-parser");
 const util = require("../pkg/util");
 

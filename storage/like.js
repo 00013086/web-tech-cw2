@@ -2,7 +2,6 @@ const decorator = require('../pkg/storageDecorator');
 const path = __dirname + '/../database/likes.json';
 const fs = require('fs');
 
-const storage = new Map();
 const NM = 'storage.like';
 
 module.exports = {
